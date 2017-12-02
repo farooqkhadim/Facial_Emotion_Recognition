@@ -1,0 +1,2 @@
+1. Installing GPU version of tensorflow on Ubuntu
+2. Knowlegde of Deep Convolutional Neural Network
